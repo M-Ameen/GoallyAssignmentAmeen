@@ -18,4 +18,10 @@ object ApiModule {
         return retrofit.build().create(GeneralApi::class.java)
     }
 
+    @Provides
+    @Singleton
+    fun provideCopilotApi(retrofit: Retrofit.Builder): CopilotApi {
+        return retrofit.build().create(CopilotApi::class.java)
+    }
+
 }

@@ -7,4 +7,16 @@
     <string name="please_your_original_email">Please your original email</string>
     <string name="your_work_starts_here_add_or_update_your_own_views_according_to_your_assignment">Your work starts here. Add or update your own views according to your assignment.</string>
     <string name="you_are_logged_in_as">You are logged in as\n%1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="folder">Folder</string>
+    <string name="schedule">Schedule</string>
+    <string name="no_copilots_here_boss">No CoPilots here boss</string>
+
+    <string-array name="schedule_types">
+        <item>ANY_TIME</item>
+        <item>REPEATING_YEARLY</item>
+        <item>REPEATING_WEEKLY</item>
+        <item>REPEATING_DAILY</item>
+    </string-array>
 </resources>

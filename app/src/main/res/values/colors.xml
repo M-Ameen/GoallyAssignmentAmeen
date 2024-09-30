@@ -6,5 +6,9 @@
     <color name="retroPurple">#7325CE</color>
     <color name="white_onboarding">#FDFCFF</color>
     <color name="grey_onboarding">#7D8E97</color>
+    <color name="magenta">#D95182</color>
+    <color name="color_view">#CACACA</color>
+    <color name="shimmer_color">#5A5A5A</color>
+
 
 </resources>
